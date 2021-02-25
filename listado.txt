@@ -1,5 +1,5 @@
 Listado de estudiantes de 6to B informatica
-Fecha:
+Fecha: 25/02/2021
 
 Profesor encargado:
 
@@ -22,6 +22,6 @@ No.             nombres
 16
 17
 18
-19
+19- Lisbeth Romero
 20
 21
